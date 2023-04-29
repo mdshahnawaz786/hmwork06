@@ -1,0 +1,30 @@
+.content{
+    height: 70%;
+    width: 100%;
+    display: flex;
+}
+
+.leftContent{
+    height: 100%;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 4rem;
+}
+
+.rightContent{
+    height: 100%;
+    width: 65%;
+    display: flex;
+    align-items: center;
+}
+
+.rightContent img{
+    height: 95%;
+    width: 90%;
+}
+
+.tagName{
+    font-size: 3rem;
+}
